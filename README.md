@@ -12,6 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://github.com/zcemycl/practice-app/blob/master/resources/demo.gif">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zcemycl&hide=jupyter%20notebook,html&langs_count=8&layout=compact&theme=radical)](https://github.com/zcemycl/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zcemycl&hide=jupyter%20notebook,html&langs_count=8&layout=compact&theme=radical)](https://github.com/zcemycl/github-readme-stats)  
+<img src="https://github.com/zcemycl/practice-app/blob/master/resources/demo.gif" width="50vw">
+
+
+
