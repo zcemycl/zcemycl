@@ -29,6 +29,7 @@ Here are some ideas to get you started:
   - https://github.com/zcemycl/webpack-js-mpa-example
   - https://github.com/zcemycl/webpack-ts-mpa-example
   - https://github.com/zcemycl/webpack-react-js-mpa-example
+  - https://github.com/zcemycl/webpack-react-ts-mpa-example
   - https://github.com/zcemycl/zcemycl.github.io
   - https://github.com/zcemycl/practice-app
 - Infrastructure
