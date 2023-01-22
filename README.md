@@ -42,6 +42,9 @@ Here are some ideas to get you started:
   - https://github.com/zcemycl/webpack-react-ts-mpa-example
 - Backend
   - https://github.com/zcemycl/flask2react
+  - https://github.com/zcemycl/alembic-sqlalchemy-fastapi-example*
+- Database 
+  - https://github.com/zcemycl/alembic-sqlalchemy-fastapi-example*
 - Robotics
   - https://github.com/zcemycl/Robotics
  
