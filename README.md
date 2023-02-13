@@ -34,12 +34,13 @@ Here are some ideas to get you started:
   - https://github.com/zcemycl/practice-app *
 - Infrastructure
   - https://github.com/zcemycl/webpack-react-ts-mpa-example *
-  - https://github.com/zcemycl/algoTest/tree/main/tf *
+  - https://github.com/zcemycl/systemDeploy *
 - Algorithms and Data Structures
   - https://github.com/zcemycl/algoTest *
 - CICD
   - https://github.com/zcemycl/pypack-guide *
   - https://github.com/zcemycl/webpack-react-ts-mpa-example
+  - https://github.com/zcemycl/systemDeploy *
 - Backend
   - https://github.com/zcemycl/flask2react
   - https://github.com/zcemycl/alembic-sqlalchemy-fastapi-example*
