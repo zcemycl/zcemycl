@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   - https://github.com/zcemycl/webpack-react-ts-mpa-example
   - https://github.com/zcemycl/systemDeploy *
 - Distributed Computing
-  - https://github.com/zcemycl/distributeCompute
+  - https://github.com/zcemycl/distributeCompute *
 - Backend
   - https://github.com/zcemycl/flask2react
   - https://github.com/zcemycl/alembic-sqlalchemy-fastapi-example*
