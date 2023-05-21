@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 
 
  <img src="https://github.com/zcemycl/practice-app/blob/master/resources/demo.gif" height="190"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zcemycl&hide=jupyter%20notebook,matlab,html,css,scss,cmake,shell&langs_count=8&layout=compact&theme=radical)](https://github.com/zcemycl/github-readme-stats) 
+ <img src="https://github.com/zcemycl/TF2DeepFloorplan/blob/main/resources/raycast.gif" height="190">
  
 ### Table of Contents ![](https://komarev.com/ghpvc/?username=zcemycl&color=blue)
 - Machine Learning
